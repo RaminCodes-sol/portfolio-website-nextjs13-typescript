@@ -1,0 +1,74 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "Pet Adoption App",
+        "languages": ["React", "JavaScript", "CSS"],
+        "thumbnail": "https://www.example.com/path/to/pet-adoption-app-thumbnail.png",
+        "description": "A web app where users can browse adoptable pets from local animal shelters."
+      },
+      {
+        "id": 2,
+        "name": "Social Media Dashboard",
+        "languages": ["React", "TypeScript", "SCSS"],
+        "thumbnail": "https://www.example.com/path/to/social-media-dashboard-thumbnail.png",
+        "description": "A dashboard for managing social media accounts and scheduling posts across multiple platforms."
+      },
+      {
+        "id": 3,
+        "name": "Online Store",
+        "languages": ["React", "Redux", "Node.js", "Express", "MongoDB"],
+        "thumbnail": "https://www.example.com/path/to/online-store-thumbnail.png",
+        "description": "An e-commerce website where customers can buy products and vendors can manage their listings and sales."
+      },
+      {
+        "id": 4,
+        "name": "Movie Search Engine",
+        "languages": ["React", "REST APIs", "Axios"],
+        "thumbnail": "https://www.example.com/path/to/movie-search-engine-thumbnail.png",
+        "description": "A movie search engine that displays information about movies and TV shows from various sources."
+      },
+      {
+        "id": 5,
+        "name": "Weather App",
+        "languages": ["React", "APIs", "Bootstrap"],
+        "thumbnail": "https://www.example.com/path/to/weather-app-thumbnail.png",
+        "description": "A weather app that displays current weather conditions and a five-day forecast for any location in the world."
+      },
+      {
+        "id": 6,
+        "name": "Task Manager",
+        "languages": ["React", "Firebase", "Material-UI"],
+        "thumbnail": "https://www.example.com/path/to/task-manager-thumbnail.png",
+        "description": "A task manager that allows users to create and manage tasks, set due dates, and receive notifications."
+      },
+      {
+        "id": 7,
+        "name": "Personal Blog",
+        "languages": ["React", "Next.js", "Markdown"],
+        "thumbnail": "https://www.example.com/path/to/personal-blog-thumbnail.png",
+        "description": "A personal blog website where users can read and write articles about various topics."
+      },
+      {
+        "id": 8,
+        "name": "E-commerce Platform",
+        "languages": ["React", "GraphQL", "Apollo", "Stripe"],
+        "thumbnail": "https://www.example.com/path/to/ecommerce-platform-thumbnail.png",
+        "description": "A platform for building and managing online stores with features such as product listings, shopping carts, and payment processing."
+      },
+      {
+        "id": 9,
+        "name": "Job Board",
+        "languages": ["React", "Node.js", "Express", "MongoDB"],
+        "thumbnail": "https://www.example.com/path/to/job-board-thumbnail.png",
+        "description": "A job board where employers can post job openings and job seekers can browse and apply for jobs."
+      },
+      {
+        "id": 10,
+        "name": "ToDo List",
+        "languages": ["React", "Redux", "LocalStorage"],
+        "thumbnail": "https://www.example.com/path/to/todo-list-thumbnail.png",
+        "description": "A simple to-do list app that allows users to create and manage tasks with support for multiple lists and due dates."
+      }
+    ]
+  }
